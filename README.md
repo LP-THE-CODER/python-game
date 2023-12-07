@@ -1,6 +1,6 @@
 # python-game
 Egg Catcher Game 
-(https://github.com/LP-THE-CODER/python-game/blob/main/Screenshot%202023-12-07%20180232.png)
+![Egg Catcher Game](https://github.com/LP-THE-CODER/python-game/blob/main/Screenshot%202023-12-07%20180232.png)
 
 This is a simple Egg Catcher game created in Python using the Tkinter library. In this game, your goal is to catch falling eggs using a catcher controlled by the arrow keys. Below, we'll provide an overview of the code and how to play the game.
 # Game Overview:
